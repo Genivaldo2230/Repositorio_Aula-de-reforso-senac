@@ -5,7 +5,7 @@
 package com.senac.sp.log.algorit.aulareforsosthomas;
 
 /**
- *
+ *chave do github : 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
  * @author gda_a
  */
 public class vetor3 {
